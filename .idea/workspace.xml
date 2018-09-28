@@ -48,10 +48,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/shakes_calculator.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="299">
               <caret line="20" column="64" selection-start-line="20" selection-start-column="64" selection-end-line="20" selection-end-column="64" />
               <folding>
                 <marker date="1538108120816" expanded="true" signature="26:31" ph="..." />
+=======
+            <state relative-caret-position="221">
+              <caret line="13" column="56" selection-start-line="13" selection-start-column="56" selection-end-line="13" selection-end-column="56" />
+              <folding>
+                <marker date="1538108586862" expanded="true" signature="26:31" ph="..." />
+>>>>>>> d5382ffb83a9500de23ce6fa25fef2f27f1b7251
               </folding>
             </state>
           </provider>
@@ -245,10 +252,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/shakes_calculator.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="299">
           <caret line="20" column="64" selection-start-line="20" selection-start-column="64" selection-end-line="20" selection-end-column="64" />
           <folding>
             <marker date="1538108120816" expanded="true" signature="26:31" ph="..." />
+=======
+        <state relative-caret-position="221">
+          <caret line="13" column="56" selection-start-line="13" selection-start-column="56" selection-end-line="13" selection-end-column="56" />
+          <folding>
+            <marker date="1538108586862" expanded="true" signature="26:31" ph="..." />
+>>>>>>> d5382ffb83a9500de23ce6fa25fef2f27f1b7251
           </folding>
         </state>
       </provider>
