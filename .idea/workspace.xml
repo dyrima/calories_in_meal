@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab63392b-6c4c-4805-8815-5e07d6abdaee" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/shakes_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/shakes_calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/x.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,15 +45,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/x.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/shakes_calculator.py">
           <provider selected="true" editor-type-id="text-editor">
