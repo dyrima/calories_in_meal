@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab63392b-6c4c-4805-8815-5e07d6abdaee" name="Default Changelist" comment="" />
+    <list default="true" id="ab63392b-6c4c-4805-8815-5e07d6abdaee" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/shakes_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/shakes_calculator.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,12 +32,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="378" />
+          <entry key="py" value="500" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="378" />
+          <entry key="Python" value="500" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -55,10 +57,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/shakes_calculator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+            <state relative-caret-position="299">
+              <caret line="20" column="64" selection-start-line="20" selection-start-column="64" selection-end-line="20" selection-end-column="64" />
               <folding>
-                <marker date="1538107177330" expanded="true" signature="26:31" ph="..." />
+                <marker date="1538108120816" expanded="true" signature="26:31" ph="..." />
               </folding>
             </state>
           </provider>
@@ -229,10 +231,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/shakes_calculator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        <state relative-caret-position="299">
+          <caret line="20" column="64" selection-start-line="20" selection-start-column="64" selection-end-line="20" selection-end-column="64" />
           <folding>
-            <marker date="1538107177330" expanded="true" signature="26:31" ph="..." />
+            <marker date="1538108120816" expanded="true" signature="26:31" ph="..." />
           </folding>
         </state>
       </provider>
